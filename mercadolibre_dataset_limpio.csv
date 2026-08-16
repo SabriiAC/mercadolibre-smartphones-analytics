@@ -1,0 +1,501 @@
+id,titulo,marca,categoria,precio_actual,precio_original,descuento_pct,vendidos,stock_disponible,tipo_logistica,envio_gratis,medalla_vendedor,cuotas_sin_interes,cantidad_cuotas,condicion,gama_precio,facturacion_estimada_ars,es_envio_full,es_mercadolider
+MLA1074928333,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,393366,393366,0,273,15,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),107388918,1,1
+MLA1126150207,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,258574,258574,0,1692,2,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),437507208,1,0
+MLA1697338256,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,286759,318621,10,1220,20,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),349845980,1,0
+MLA1337450097,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1392596,1638348,15,1527,26,Despacho en Correo,Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),2126494092,0,1
+MLA1123342335,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,452412,452412,0,1004,12,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),454221648,1,1
+MLA1672302157,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,400016,400016,0,1747,16,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),698827952,0,1
+MLA1295025737,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,231622,231622,0,850,8,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),196878700,1,1
+MLA1515633630,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1282853,1282853,0,1371,10,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),1758791463,0,0
+MLA1224013882,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,500440,500440,0,1097,18,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),548982680,0,1
+MLA1361168184,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1479238,1479238,0,655,39,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),968900890,0,1
+MLA1095318275,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,282174,282174,0,1388,6,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),391657512,0,1
+MLA1617879435,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,252876,252876,0,204,38,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),51586704,0,1
+MLA1398265237,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,274373,365830,25,1522,5,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),417595706,0,1
+MLA1776900508,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1054706,1054706,0,374,24,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),394460044,1,1
+MLA1620064029,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,845424,845424,0,1800,1,Despacho en Correo,Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),1521763200,0,1
+MLA1693257666,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,500057,555618,10,365,7,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),182520805,1,1
+MLA1289123298,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,1369212,1610837,15,1467,29,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),2008634004,0,0
+MLA1893457374,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,459041,459041,0,1391,28,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),638526031,1,1
+MLA1511980200,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,2665045,3135347,15,1349,13,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),3595145705,0,1
+MLA1771966860,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,334588,334588,0,343,21,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),114763684,0,1
+MLA1431190495,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,329742,329742,0,1413,25,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),465925446,0,0
+MLA1349550188,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,2117071,2117071,0,1156,24,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),2447334076,0,0
+MLA1411492314,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,194118,228374,15,767,2,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),148888506,1,0
+MLA1176880721,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,457457,457457,0,560,35,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),256175920,0,1
+MLA1545197087,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1436055,1436055,0,1754,26,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),2518840470,0,1
+MLA1215476326,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1219827,1524783,20,498,9,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),607473846,0,1
+MLA1408533416,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,971813,1295750,25,1109,13,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1077740617,1,1
+MLA1104484761,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1446969,1702316,15,1030,19,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Alta (> $700k),1490378070,1,1
+MLA1098215752,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,274621,274621,0,520,20,Despacho en Correo,Sí,MercadoLíder Silver,Sí,6,new,Gama Entrada (< $300k),142802920,0,1
+MLA1881292822,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,410248,410248,0,793,40,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),325326664,1,1
+MLA1438521171,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,885051,885051,0,1732,32,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),1532908332,0,1
+MLA1932461056,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,500093,500093,0,540,36,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),270050220,1,1
+MLA1390459261,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,397156,397156,0,1261,39,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),500813716,1,0
+MLA1603692294,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,237274,237274,0,930,14,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),220664820,1,0
+MLA1075444871,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1697837,1697837,0,1735,35,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),2945747195,0,1
+MLA1805871813,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,345213,345213,0,863,28,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),297918819,1,1
+MLA1284190340,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2696584,2696584,0,1115,20,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),3006691160,0,1
+MLA1275443231,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1438735,1438735,0,119,33,Colecta / Depósito,Sí,MercadoLíder Gold,No,1,new,Gama Alta (> $700k),171209465,0,1
+MLA1455586920,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1807283,1807283,0,757,14,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),1368113231,0,0
+MLA1312084480,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,864365,864365,0,1529,6,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1321614085,0,0
+MLA1348303794,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,297586,350101,15,1156,26,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Entrada (< $300k),344009416,1,1
+MLA1336088122,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,224129,249032,10,474,38,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),106237146,1,0
+MLA1600113905,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,191345,239181,20,856,30,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),163791320,0,0
+MLA1330478854,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,419600,493647,15,577,12,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),242109200,1,0
+MLA1782112760,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,517041,517041,0,402,31,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),207850482,0,1
+MLA1577786272,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,786040,786040,0,1267,28,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),995912680,1,1
+MLA1775730367,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,914795,914795,0,554,22,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),506796430,0,0
+MLA1499777715,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,289093,289093,0,966,22,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),279263838,0,1
+MLA1950555444,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1100188,1100188,0,1451,17,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1596372788,1,1
+MLA1444067355,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,253480,253480,0,1849,36,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),468684520,1,1
+MLA1476840586,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,1557611,2076814,25,1282,33,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1996857302,1,1
+MLA1720210132,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,431930,431930,0,240,8,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),103663200,0,1
+MLA1852428877,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,917136,917136,0,1239,35,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),1136331504,1,1
+MLA1127467297,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,405841,477460,15,141,3,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),57223581,0,0
+MLA1091614410,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,375795,375795,0,928,9,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),348737760,1,1
+MLA1529757818,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1823455,2431273,25,161,27,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),293576255,1,1
+MLA1699597452,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,1439245,1799056,20,972,4,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),1398946140,0,1
+MLA1297897647,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1015229,1015229,0,1510,36,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1532995790,0,1
+MLA1266501220,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,423195,423195,0,1235,30,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),522645825,1,1
+MLA1392113262,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,353689,353689,0,262,22,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),92666518,0,0
+MLA1997350860,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,359713,359713,0,393,20,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),141367209,0,1
+MLA1936286732,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,320964,356626,10,983,39,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),315507612,0,0
+MLA1229871319,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,188499,188499,0,991,28,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),186802509,0,1
+MLA1497524203,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,477431,477431,0,869,13,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),414887539,0,0
+MLA1836324721,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,323355,323355,0,145,21,Despacho en Correo,Sí,MercadoLíder Silver,No,1,new,Gama Media ($300k - $700k),46886475,0,1
+MLA1075845616,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1253043,1253043,0,1818,9,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),2278032174,0,1
+MLA1189414802,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,342744,342744,0,1344,34,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),460647936,1,0
+MLA1157104614,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,470244,470244,0,259,10,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),121793196,1,0
+MLA1248823072,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,2413422,2413422,0,1161,36,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),2801982942,0,1
+MLA1652003295,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,2643484,2643484,0,382,38,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1009810888,1,0
+MLA1858979448,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1253657,1392952,10,887,16,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1111993759,1,1
+MLA1121978369,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,362676,362676,0,155,6,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),56214780,1,0
+MLA1019202288,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,356925,475900,25,1554,23,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),554661450,1,1
+MLA1488642260,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1765047,2206308,20,787,15,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1389091989,1,1
+MLA1500753162,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1247979,1247979,0,291,30,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),363161889,1,1
+MLA1883147892,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,330606,330606,0,936,7,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),309447216,1,1
+MLA1340460359,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1155879,1155879,0,1511,7,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),1746533169,1,0
+MLA1646808251,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,459543,459543,0,692,33,Despacho en Correo,Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),318003756,0,1
+MLA1536187907,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,991128,991128,0,796,17,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),788937888,1,1
+MLA1319125130,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1669902,1669902,0,1465,19,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),2446406430,1,1
+MLA1880989312,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,276951,325824,15,141,14,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Entrada (< $300k),39050091,1,0
+MLA1349603264,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,199655,249568,20,708,3,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Entrada (< $300k),141355740,1,1
+MLA1751928995,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,1914315,2552420,25,135,14,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),258432525,1,0
+MLA1688926425,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,381914,381914,0,585,5,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),223419690,0,1
+MLA1510936652,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,388280,388280,0,414,37,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),160747920,1,0
+MLA1622163136,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,1371349,1714186,20,674,7,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),924289226,1,0
+MLA1745360940,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,2198046,2198046,0,1268,24,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),2787122328,1,1
+MLA1538976478,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,1515190,1515190,0,1016,6,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1539433040,0,1
+MLA1238735687,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,341469,341469,0,938,32,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),320297922,0,1
+MLA1061972497,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1629546,1629546,0,1611,6,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),2625198606,0,0
+MLA1677990678,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,480708,480708,0,1368,12,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),657608544,1,0
+MLA1534098578,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,849925,849925,0,948,22,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),805728900,1,1
+MLA1594797215,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,363449,363449,0,62,35,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),22533838,0,1
+MLA1074981588,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,1921533,2135036,10,1688,9,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),3243547704,0,1
+MLA1993169669,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1031248,1031248,0,1716,23,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),1769621568,0,0
+MLA1212553780,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,373998,415553,10,144,38,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),53855712,0,0
+MLA1083488920,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1042460,1042460,0,1505,9,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),1568902300,1,0
+MLA1959956816,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,1093185,1093185,0,667,35,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),729154395,0,1
+MLA1171954236,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,361311,361311,0,1644,25,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),593995284,1,1
+MLA1607460433,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1160028,1160028,0,1014,31,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1176268392,0,1
+MLA1147888198,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,503918,559908,10,1026,8,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),517019868,1,0
+MLA1899896428,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,507298,596821,15,1461,32,Colecta / Depósito,Sí,MercadoLíder Silver,No,1,new,Gama Media ($300k - $700k),741162378,0,1
+MLA1038682011,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,507241,507241,0,219,9,Colecta / Depósito,Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),111085779,0,1
+MLA1570454733,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,216265,240294,10,28,9,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),6055420,1,0
+MLA1117682556,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,352824,352824,0,1038,6,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),366231312,1,0
+MLA1084067972,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2376032,2970040,20,776,3,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1843800832,1,1
+MLA1827680574,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,362813,362813,0,56,36,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),20317528,0,1
+MLA1367746623,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,896566,896566,0,1154,30,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1034637164,0,1
+MLA1831073392,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1334906,1334906,0,514,18,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),686141684,0,1
+MLA1951696307,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,201020,201020,0,1825,6,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),366861500,0,0
+MLA1526877816,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1113802,1113802,0,611,29,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),680533022,1,0
+MLA1050405173,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,505665,505665,0,280,2,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),141586200,1,1
+MLA1137179640,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,475449,475449,0,231,18,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),109828719,1,1
+MLA1748412138,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,2008132,2008132,0,1158,5,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),2325416856,1,0
+MLA1996431193,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,181920,214023,15,349,38,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),63490080,0,1
+MLA1902978088,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,330442,330442,0,1109,16,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),366460178,0,1
+MLA1326157290,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,332240,332240,0,1724,38,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),572781760,0,1
+MLA1844213337,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,497651,497651,0,1782,15,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),886814082,0,0
+MLA1912549766,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,216479,216479,0,327,17,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),70788633,1,1
+MLA1354224197,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1378499,1378499,0,509,29,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),701655991,0,0
+MLA1302014446,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,402901,402901,0,98,26,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),39484298,0,1
+MLA1805856495,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2749216,2749216,0,248,10,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),681805568,0,1
+MLA1342215890,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,479602,532891,10,1606,11,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),770240812,1,0
+MLA1203355378,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2589881,2589881,0,356,37,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Alta (> $700k),921997636,1,1
+MLA1308265769,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,246171,246171,0,1348,18,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),331838508,1,0
+MLA1489478340,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,1916901,1916901,0,748,24,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1433841948,0,0
+MLA1885030704,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,319387,319387,0,82,10,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),26189734,0,1
+MLA1825300087,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,279562,279562,0,1252,2,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),350011624,1,0
+MLA1464732825,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,445716,445716,0,442,13,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),197006472,0,0
+MLA1051749667,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,191188,191188,0,1170,33,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),223689960,0,0
+MLA1069752956,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,186161,186161,0,1288,8,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),239775368,0,0
+MLA1542310422,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,294841,368551,20,928,23,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Entrada (< $300k),273612448,1,1
+MLA1757396769,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,447469,447469,0,376,26,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),168248344,0,0
+MLA1074791709,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,235416,235416,0,1086,21,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),255661776,1,1
+MLA1309008937,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,825699,825699,0,500,22,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),412849500,0,1
+MLA1416299450,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,372100,372100,0,1802,25,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),670524200,0,1
+MLA1202368663,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,260803,260803,0,652,25,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),170043556,0,1
+MLA1805043412,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,443765,443765,0,1271,8,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),564025315,1,1
+MLA1220424846,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,390482,390482,0,1763,11,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),688419766,0,0
+MLA1864296124,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1617896,2022370,20,1709,33,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),2764984264,1,0
+MLA1253444663,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1230653,1230653,0,1677,8,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),2063805081,1,1
+MLA1742104872,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,2089843,2458638,15,1607,26,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),3358377701,1,1
+MLA1392520559,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,471583,471583,0,1341,24,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),632392803,1,1
+MLA1248987548,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1970219,1970219,0,320,18,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),630470080,0,1
+MLA1226789150,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1403972,1403972,0,362,25,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),508237864,1,0
+MLA1421113594,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,469146,469146,0,1427,33,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),669471342,1,1
+MLA1918540731,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,1107872,1107872,0,971,8,Despacho en Correo,Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),1075743712,0,1
+MLA1676462680,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,434863,434863,0,951,11,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),413554713,1,1
+MLA1193558926,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,360539,360539,0,1201,13,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),433007339,0,0
+MLA1686702750,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,364393,364393,0,565,8,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),205882045,1,0
+MLA1626216578,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,2644565,3305706,20,1023,40,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),2705389995,0,1
+MLA1838718369,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,490595,490595,0,1771,31,Despacho en Correo,Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),868843745,0,1
+MLA1823267196,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,1618858,1618858,0,1775,33,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),2873472950,0,0
+MLA1004409044,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1171385,1378100,15,1841,17,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),2156519785,0,0
+MLA1856884351,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,458074,508971,10,1194,27,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),546940356,1,0
+MLA1478100542,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,1612153,1612153,0,561,21,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),904417833,0,1
+MLA1965267791,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,507875,507875,0,74,38,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),37582750,0,1
+MLA1068782011,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,403906,504882,20,689,14,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),278291234,1,0
+MLA1099404371,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,998072,1330762,25,1305,40,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1302483960,0,1
+MLA1094834906,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,459083,459083,0,1638,16,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),751977954,1,1
+MLA1228237571,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,199438,234632,15,1071,27,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),213598098,0,1
+MLA1856157591,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1138287,1138287,0,1236,30,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1406922732,0,1
+MLA1965416728,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1398229,1398229,0,1176,34,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1644317304,1,0
+MLA1116463259,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,284808,284808,0,531,2,Despacho en Correo,Sí,MercadoLíder Gold,No,1,new,Gama Entrada (< $300k),151233048,0,1
+MLA1960704930,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,2687930,3359912,20,288,38,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),774123840,0,0
+MLA1218258258,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,463313,514792,10,122,28,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),56524186,1,1
+MLA1760730107,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,276963,346203,20,1003,24,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Entrada (< $300k),277793889,1,1
+MLA1968651255,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,332752,332752,0,574,20,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),190999648,1,0
+MLA1483423610,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1330625,1330625,0,1678,35,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),2232788750,0,0
+MLA1964646406,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,461129,461129,0,735,5,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),338929815,0,0
+MLA1137227505,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1297531,1441701,10,1709,8,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),2217480479,0,1
+MLA1315494803,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,403353,403353,0,594,11,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),239591682,1,0
+MLA1944322637,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1025137,1025137,0,739,9,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),757576243,1,0
+MLA1650173810,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,278349,278349,0,894,28,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Entrada (< $300k),248844006,0,1
+MLA1596182098,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,517571,517571,0,1203,26,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),622637913,0,0
+MLA1058712744,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,188400,188400,0,1135,37,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),213834000,0,1
+MLA1286127874,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1163457,1551276,25,583,30,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),678295431,0,1
+MLA1127808998,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,967212,967212,0,483,37,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),467163396,1,0
+MLA1599818407,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,1062045,1062045,0,820,30,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),870876900,1,1
+MLA1245174281,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,360275,360275,0,877,27,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),315961175,0,1
+MLA1491466258,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,299818,352727,15,606,2,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Entrada (< $300k),181689708,1,1
+MLA1127277770,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,416730,463033,10,201,6,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),83762730,0,0
+MLA1664420803,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,508638,508638,0,1377,27,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),700394526,0,1
+MLA1095172733,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,461536,461536,0,1110,3,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),512304960,1,1
+MLA1180375302,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,969130,1211412,20,1022,2,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),990450860,1,0
+MLA1058357394,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1067457,1255831,15,1067,17,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1138976619,0,0
+MLA1239658222,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,449941,449941,0,154,24,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),69290914,0,1
+MLA1740571544,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,223599,223599,0,876,40,Colecta / Depósito,Sí,MercadoLíder Gold,No,1,new,Gama Entrada (< $300k),195872724,0,1
+MLA1456254279,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,252259,252259,0,1221,20,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Entrada (< $300k),308008239,1,0
+MLA1533779710,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,859080,859080,0,664,14,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),570429120,1,0
+MLA1192102334,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1547377,1547377,0,1105,29,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1709851585,0,1
+MLA1925052307,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,409866,409866,0,974,6,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),399209484,1,0
+MLA1583944846,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1058003,1058003,0,1635,34,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1729834905,0,0
+MLA1405846856,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1522517,1691685,10,1195,19,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1819407815,0,0
+MLA1944499347,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,185462,231827,20,1705,25,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),316212710,0,0
+MLA1855354231,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,328285,328285,0,81,24,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),26591085,0,0
+MLA1544832896,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,680002,680002,0,649,2,Despacho en Correo,Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),441321298,0,1
+MLA1862558907,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,212349,249822,15,1370,14,Colecta / Depósito,Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),290918130,0,1
+MLA1663613460,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,399794,399794,0,1332,39,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),532525608,1,0
+MLA1131700402,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2016602,2372472,15,706,7,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),1423721012,0,0
+MLA1227696898,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1315686,1754248,25,787,35,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1035444882,1,0
+MLA1924887091,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,439287,439287,0,1430,30,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),628180410,1,1
+MLA1979978841,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,992824,992824,0,17,34,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),16878008,1,1
+MLA1819740143,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,360814,360814,0,926,19,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),334113764,1,0
+MLA1815272147,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,289261,340307,15,36,36,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Entrada (< $300k),10413396,1,1
+MLA1614484731,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,755779,1007705,25,1118,22,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),844960922,0,1
+MLA1189149720,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1271593,1271593,0,1100,23,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),1398752300,0,1
+MLA1247123388,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,355420,355420,0,1512,2,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),537395040,0,1
+MLA1104053586,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,278891,278891,0,930,17,Colecta / Depósito,Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),259368630,0,1
+MLA1666236630,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1820751,1820751,0,725,1,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1320044475,1,1
+MLA1195467641,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,502192,557991,10,706,25,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),354547552,0,0
+MLA1780273439,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,2221043,2221043,0,1421,16,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),3156102103,1,0
+MLA1578716885,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,387393,387393,0,1436,38,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),556296348,1,0
+MLA1524744729,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1087830,1087830,0,368,30,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),400321440,1,1
+MLA1648950530,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,206687,258358,20,1499,20,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),309823813,1,0
+MLA1996614465,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,303171,303171,0,706,2,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),214038726,0,0
+MLA1379416734,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,1361030,1361030,0,731,20,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),994912930,1,1
+MLA1626292993,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,953355,953355,0,850,19,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),810351750,0,1
+MLA1534745208,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,241303,241303,0,710,16,Colecta / Depósito,Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),171325130,0,1
+MLA1900098444,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,309206,309206,0,900,17,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),278285400,0,1
+MLA1848737754,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,1348027,1348027,0,1684,11,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),2270077468,0,1
+MLA1877297823,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1441421,1921894,25,1158,6,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1669165518,1,0
+MLA1227206418,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,262871,262871,0,1395,2,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Entrada (< $300k),366705045,1,1
+MLA1298886775,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,980783,1225978,20,674,10,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),661047742,1,0
+MLA1117870928,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,423730,423730,0,274,4,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),116102020,0,1
+MLA1436354235,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,358448,477930,25,1551,30,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),555952848,1,1
+MLA1221762709,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,1183740,1183740,0,1099,24,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),1300930260,0,0
+MLA1141332136,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,377228,377228,0,368,10,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),138819904,1,0
+MLA1366823063,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,845409,845409,0,1634,29,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1381398306,0,1
+MLA1426433159,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,186519,207243,10,215,12,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),40101585,0,0
+MLA1730656553,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1862343,2327928,20,1122,20,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),2089548846,0,0
+MLA1381073413,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1184304,1184304,0,488,2,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),577940352,1,1
+MLA1559869601,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,345678,345678,0,1317,16,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),455257926,1,1
+MLA1346774912,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,493518,493518,0,1719,11,Despacho en Correo,Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),848357442,0,1
+MLA1673831914,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,514527,571696,10,133,40,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),68432091,1,1
+MLA1150939026,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,444192,444192,0,790,9,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),350911680,0,1
+MLA1413326420,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,184350,184350,0,784,20,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),144530400,1,1
+MLA1026970595,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,263116,263116,0,1180,21,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),310476880,0,1
+MLA1118457646,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1162217,1162217,0,1333,34,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1549235261,1,1
+MLA1956429733,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,376028,376028,0,76,18,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),28578128,1,1
+MLA1190789018,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,498142,498142,0,512,32,Despacho en Correo,Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),255048704,0,1
+MLA1515658342,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1544661,1544661,0,548,34,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),846474228,0,1
+MLA1926997543,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1508133,1508133,0,673,19,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1014973509,0,1
+MLA1646835079,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,196548,196548,0,1166,32,Despacho en Correo,Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),229174968,0,1
+MLA1597509951,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,410282,455868,10,1203,11,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),493569246,1,1
+MLA1320419630,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2661475,2957194,10,645,8,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),1716651375,0,0
+MLA1383615421,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,275690,306322,10,1500,39,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),413535000,0,1
+MLA1591297517,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,293232,293232,0,1108,34,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Entrada (< $300k),324901056,1,1
+MLA1644187942,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,792801,1057068,25,902,40,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),715106502,0,0
+MLA1765107751,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,472799,472799,0,1160,38,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),548446840,1,1
+MLA1518213797,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1686093,1686093,0,1267,28,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),2136279831,1,0
+MLA1127047302,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,277623,326615,15,1304,11,Despacho en Correo,Sí,MercadoLíder Gold,No,1,new,Gama Entrada (< $300k),362020392,0,1
+MLA1260560047,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,190218,223785,15,374,28,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),71141532,1,1
+MLA1739252744,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,950080,950080,0,261,4,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),247970880,1,1
+MLA1342426547,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,370307,370307,0,538,37,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),199225166,1,0
+MLA1739907494,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,295139,295139,0,241,5,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),71128499,0,1
+MLA1963897403,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2191986,2191986,0,147,22,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),322221942,1,1
+MLA1348846908,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,935477,935477,0,867,23,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),811058559,1,0
+MLA1592786009,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1311717,1748956,25,60,10,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),78703020,1,1
+MLA1205821828,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,386686,386686,0,1049,15,Despacho en Correo,Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),405633614,0,1
+MLA1198251696,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1887814,1887814,0,1393,4,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),2629724902,0,0
+MLA1893579315,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1027799,1027799,0,152,32,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),156225448,1,1
+MLA1080701704,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,422576,422576,0,394,15,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),166494944,1,0
+MLA1941892653,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1398111,1747638,20,1412,6,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1974132732,1,0
+MLA1437784592,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,491247,491247,0,725,2,Colecta / Depósito,Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),356154075,0,1
+MLA1886595248,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,885399,1180532,25,306,13,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),270932094,1,0
+MLA1052549032,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,224722,224722,0,739,9,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),166069558,0,1
+MLA1262738953,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1747820,1747820,0,1058,33,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1849193560,0,1
+MLA1754566271,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,475248,475248,0,38,39,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),18059424,0,1
+MLA1354340882,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,416750,490294,15,740,6,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),308395000,0,0
+MLA1472989247,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,212941,236601,10,1603,30,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),341344423,0,0
+MLA1449350226,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1419526,1419526,0,1617,15,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),2295373542,1,1
+MLA1080340779,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,770149,770149,0,1056,3,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),813277344,1,1
+MLA1399087428,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2266252,2266252,0,836,20,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1894586672,1,1
+MLA1849915434,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,748538,748538,0,1030,35,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),770994140,1,1
+MLA1888311119,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,266713,266713,0,546,27,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),145625298,1,1
+MLA1428212296,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,328779,386798,15,1732,4,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),569445228,0,1
+MLA1505193799,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,237690,237690,0,471,20,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Entrada (< $300k),111951990,1,1
+MLA1391894386,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,672487,672487,0,773,26,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),519832451,0,1
+MLA1777161471,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2232053,2790066,20,464,35,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1035672592,1,0
+MLA1858441574,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,284324,284324,0,440,23,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),125102560,1,1
+MLA1239343528,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,313919,313919,0,1315,32,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),412803485,0,1
+MLA1567899157,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,2349673,2349673,0,1377,27,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),3235499721,1,1
+MLA1735996599,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,294056,392074,25,509,37,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Entrada (< $300k),149674504,1,1
+MLA1258573823,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,313406,417874,25,731,36,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),229099786,0,1
+MLA1640249627,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,381081,448330,15,911,12,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),347164791,0,1
+MLA1092762749,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,252425,296970,15,1138,13,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),287259650,1,0
+MLA1744660587,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1687349,2109186,20,1406,40,Colecta / Depósito,Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),2372412694,0,1
+MLA1148713200,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,315136,315136,0,1792,10,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),564723712,1,1
+MLA1966336593,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,384412,480515,20,1463,23,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),562394756,0,0
+MLA1273705949,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,406245,406245,0,1816,11,Despacho en Correo,Sí,MercadoLíder Silver,No,1,new,Gama Media ($300k - $700k),737740920,0,1
+MLA1583861458,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,341112,341112,0,379,4,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),129281448,0,1
+MLA1611920428,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2566520,2566520,0,208,7,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),533836160,1,1
+MLA1201165814,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,1904962,2116624,10,842,6,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1603978004,1,1
+MLA1496059616,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2761193,2761193,0,360,18,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),994029480,0,0
+MLA1467416399,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,242940,242940,0,602,10,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),146249880,0,1
+MLA1123089965,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,323460,323460,0,1787,31,Colecta / Depósito,Sí,MercadoLíder Silver,No,1,new,Gama Media ($300k - $700k),578023020,0,1
+MLA1910878210,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,461931,461931,0,424,9,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),195858744,0,1
+MLA1957167417,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,2792822,2792822,0,1234,12,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),3446342348,0,1
+MLA1138799891,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,372369,372369,0,880,15,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),327684720,1,1
+MLA1204853962,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,369099,369099,0,1044,25,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),385339356,0,0
+MLA1621213930,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,275119,323669,15,387,9,Despacho en Correo,Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),106471053,0,1
+MLA1524906256,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,1445120,1605688,10,264,31,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),381511680,1,0
+MLA1154681290,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,1031943,1031943,0,1845,33,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1903934835,1,0
+MLA1381008197,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,365165,365165,0,1434,18,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),523646610,1,1
+MLA1064366360,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,709027,709027,0,1240,9,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),879193480,1,1
+MLA1955223179,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,441911,589214,25,373,8,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Media ($300k - $700k),164832803,1,1
+MLA1760123823,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,1383108,1383108,0,1571,28,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),2172862668,1,0
+MLA1495650281,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,225934,225934,0,1000,24,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),225934000,0,0
+MLA1887530119,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1372516,1372516,0,1710,36,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),2347002360,1,1
+MLA1491371120,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,237482,237482,0,60,7,Despacho en Correo,Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),14248920,0,1
+MLA1355519803,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1209475,1209475,0,130,36,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),157231750,1,1
+MLA1995086524,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,230869,256521,10,1061,20,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),244952009,0,1
+MLA1484884897,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1153194,1356698,15,611,38,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),704601534,0,1
+MLA1914857361,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,702613,936817,25,749,24,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),526257137,0,0
+MLA1294864281,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,357167,357167,0,547,25,Despacho en Correo,Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),195370349,0,1
+MLA1503154056,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,518002,518002,0,1504,21,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),779075008,1,1
+MLA1737343204,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,507441,507441,0,702,17,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),356223582,0,0
+MLA1487631539,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,866384,866384,0,315,11,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),272910960,0,1
+MLA1626131121,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,730427,973902,25,199,21,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),145354973,1,1
+MLA1475884626,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,353493,353493,0,1795,18,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),634519935,0,0
+MLA1247918999,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,318727,318727,0,1227,11,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),391078029,0,0
+MLA1095125333,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,490699,490699,0,416,18,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Media ($300k - $700k),204130784,1,1
+MLA1947497863,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,413220,550960,25,1100,28,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),454542000,0,1
+MLA1070532556,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1007248,1184997,15,1131,17,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1139197488,0,1
+MLA1845525939,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2523337,2523337,0,620,12,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1564468940,0,1
+MLA1161798151,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,341888,341888,0,675,21,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),230774400,1,1
+MLA1611718365,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,340920,340920,0,122,23,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),41592240,1,1
+MLA1421633740,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,411111,483660,15,1536,16,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),631466496,1,0
+MLA1920280774,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,502280,627850,20,1421,19,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),713739880,1,1
+MLA1460463328,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,2502169,2502169,0,1263,31,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),3160239447,1,1
+MLA1310238091,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1345628,1794170,25,160,21,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),215300480,1,1
+MLA1789862401,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,492472,492472,0,739,14,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),363936808,1,0
+MLA1830219918,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,354456,354456,0,1043,30,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),369697608,1,0
+MLA1779313881,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,422693,422693,0,1389,6,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),587120577,0,1
+MLA1948533339,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,350824,350824,0,1357,10,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),476068168,1,1
+MLA1921044331,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1032568,1032568,0,1143,10,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1180225224,1,1
+MLA1417830958,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,2663176,2663176,0,188,33,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),500677088,1,1
+MLA1663771393,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,251873,251873,0,52,29,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),13097396,1,1
+MLA1844627457,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1260972,1260972,0,1768,26,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),2229398496,0,0
+MLA1558978853,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1249926,1249926,0,947,37,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1183679922,0,0
+MLA1977538737,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,232620,232620,0,295,24,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),68622900,1,1
+MLA1747404782,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1262422,1485202,15,1731,17,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),2185252482,0,1
+MLA1488579581,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,1178057,1472571,20,1790,12,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Alta (> $700k),2108722030,1,1
+MLA1091765842,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,2418190,3022737,20,374,20,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),904403060,1,0
+MLA1481187043,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1225940,1362155,10,389,21,Colecta / Depósito,Sí,MercadoLíder Gold,No,1,new,Gama Alta (> $700k),476890660,0,1
+MLA1038811518,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,518525,518525,0,342,32,Colecta / Depósito,Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),177335550,0,1
+MLA1415008296,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,896952,896952,0,1047,1,Despacho en Correo,Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),939108744,0,1
+MLA1556813820,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,383206,383206,0,780,38,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),298900680,1,0
+MLA1999124700,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,304948,304948,0,942,6,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),287261016,1,0
+MLA1484370776,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,366810,366810,0,49,22,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),17973690,0,0
+MLA1625750656,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1725953,1725953,0,55,9,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),94927415,0,0
+MLA1296318592,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,805017,947078,15,1233,13,Despacho en Correo,Sí,MercadoLíder Gold,No,1,new,Gama Alta (> $700k),992585961,0,1
+MLA1665066470,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2184715,2184715,0,1612,32,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),3521760580,1,1
+MLA1852180262,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,2433498,2433498,0,1672,32,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),4068808656,1,1
+MLA1099310933,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,840524,840524,0,573,6,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),481620252,1,1
+MLA1410562611,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,2018325,2018325,0,502,2,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1013199150,0,1
+MLA1549462210,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,2739342,2739342,0,1602,38,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),4388425884,1,1
+MLA1546920796,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,1510726,1777324,15,739,30,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),1116426514,1,1
+MLA1120755112,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,925017,925017,0,1757,18,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1625254869,1,0
+MLA1427665790,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2533375,3166718,20,505,20,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1279354375,1,1
+MLA1539897445,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1358097,1358097,0,1616,37,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),2194684752,0,0
+MLA1684341115,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,351084,351084,0,887,27,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),311411508,1,0
+MLA1714184905,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,256801,256801,0,1114,32,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),286076314,1,1
+MLA1709946176,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1761039,1761039,0,1645,12,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),2896909155,0,1
+MLA1591893491,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,954038,1060042,10,115,34,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),109714370,0,1
+MLA1760496964,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1067486,1067486,0,563,15,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),600994618,0,0
+MLA1039379018,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,2224100,2224100,0,796,38,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),1770383600,0,1
+MLA1205229577,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,681796,681796,0,1165,9,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),794292340,1,1
+MLA1262446816,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,2653785,2653785,0,30,27,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),79613550,1,1
+MLA1762117872,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,345829,345829,0,1283,39,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),443698607,0,0
+MLA1056030910,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,210637,210637,0,393,1,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Entrada (< $300k),82780341,1,1
+MLA1572247837,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,362741,362741,0,1839,32,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),667080699,0,1
+MLA1847494336,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,358478,398308,10,156,28,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),55922568,1,1
+MLA1702883253,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1187507,1187507,0,1656,26,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1966511592,1,1
+MLA1568676577,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,742476,742476,0,1038,40,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),770690088,0,0
+MLA1854055704,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,516610,516610,0,578,13,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),298600580,1,1
+MLA1991600417,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,190707,224361,15,227,8,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),43290489,0,0
+MLA1252399103,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,923473,923473,0,242,39,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),223480466,1,1
+MLA1930296629,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,2712985,2712985,0,670,13,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),1817699950,0,1
+MLA1777447866,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,287508,287508,0,1691,2,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),486176028,0,0
+MLA1950099170,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,291783,291783,0,882,39,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Entrada (< $300k),257352606,1,1
+MLA1185041217,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,366622,488829,25,1837,5,Colecta / Depósito,Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),673484614,0,1
+MLA1706111205,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1234556,1452418,15,318,36,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),392588808,0,0
+MLA1653426772,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,265930,312858,15,1561,28,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Entrada (< $300k),415116730,1,0
+MLA1960057802,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1701824,1701824,0,690,14,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),1174258560,0,0
+MLA1820594879,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,289491,289491,0,1754,18,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),507767214,0,1
+MLA1244583445,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1834778,1834778,0,708,30,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),1299022824,1,1
+MLA1337177267,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,918705,918705,0,962,14,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Alta (> $700k),883794210,1,1
+MLA1169912114,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,2779364,2779364,0,1161,25,Despacho en Correo,Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),3226841604,0,1
+MLA1286566315,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,376657,376657,0,1576,25,Despacho en Correo,Sí,MercadoLíder Silver,No,1,new,Gama Media ($300k - $700k),593611432,0,1
+MLA1002535120,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,669511,669511,0,1024,33,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),685579264,0,1
+MLA1128520203,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,476971,596213,20,1433,2,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),683499443,1,1
+MLA1342730707,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,470436,470436,0,578,1,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),271912008,1,1
+MLA1742591318,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,303936,303936,0,1800,34,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),547084800,1,1
+MLA1104779569,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1735620,1735620,0,1130,16,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1961250600,0,1
+MLA1715730383,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,495976,495976,0,662,33,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),328336112,1,0
+MLA1446690975,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,690224,766915,10,1401,38,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),967003824,1,0
+MLA1542333704,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,321857,321857,0,52,40,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),16736564,0,1
+MLA1020138968,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,274079,342598,20,1413,31,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Entrada (< $300k),387273627,0,0
+MLA1928754298,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1190626,1488282,20,1678,22,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1997870428,0,0
+MLA1745721117,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,696365,696365,0,692,22,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Media ($300k - $700k),481884580,1,1
+MLA1895557505,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,184083,216568,15,162,12,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),29821446,0,1
+MLA1622262999,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,350203,350203,0,566,33,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),198214898,1,1
+MLA1590095057,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,422818,528522,20,1061,16,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),448609898,1,0
+MLA1048198034,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,231257,231257,0,1792,13,Colecta / Depósito,Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),414412544,0,1
+MLA1080244939,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,1490391,1490391,0,1827,8,Despacho en Correo,Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),2722944357,0,1
+MLA1151772042,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1246629,1246629,0,295,11,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),367755555,0,1
+MLA1816002738,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1269386,1692514,25,1099,25,Despacho en Correo,Sí,MercadoLíder Gold,No,1,new,Gama Alta (> $700k),1395055214,0,1
+MLA1193424560,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,471538,554750,15,596,9,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),281036648,0,1
+MLA1966945502,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,452765,565956,20,253,6,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),114549545,0,1
+MLA1958799541,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,186830,186830,0,747,15,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),139562010,1,0
+MLA1054025336,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,262303,262303,0,365,14,Despacho en Correo,Sí,MercadoLíder Silver,Sí,6,new,Gama Entrada (< $300k),95740595,0,1
+MLA1037742667,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1129955,1129955,0,1484,24,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),1676853220,0,1
+MLA1615277359,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,469575,552441,15,1251,40,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),587438325,1,0
+MLA1913038017,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,204046,240054,15,456,13,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),93044976,0,0
+MLA1882754717,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,315803,371532,15,182,4,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),57476146,0,0
+MLA1740783990,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,2777654,2777654,0,1366,23,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),3794275364,0,0
+MLA1299636657,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1127732,1127732,0,1371,13,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1546120572,0,0
+MLA1837766427,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,276170,306855,10,1592,13,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Entrada (< $300k),439662640,1,0
+MLA1221370529,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,253412,253412,0,174,36,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),44093688,1,1
+MLA1357001273,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1414186,1414186,0,758,5,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1071952988,1,1
+MLA1012635433,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,330295,330295,0,1143,27,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),377527185,0,1
+MLA1190350234,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,1437760,1437760,0,1755,40,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),2523268800,0,1
+MLA1311652468,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,1063685,1063685,0,781,7,Despacho en Correo,Sí,MercadoLíder Gold,No,1,new,Gama Alta (> $700k),830737985,0,1
+MLA1848423300,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2618072,2618072,0,881,10,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),2306521432,0,0
+MLA1263835113,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,270347,318055,15,427,23,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),115438169,1,0
+MLA1256832870,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1041182,1224920,15,1708,16,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),1778338856,0,0
+MLA1681872234,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2430739,2430739,0,1472,34,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),3578047808,0,1
+MLA1557933301,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,401610,502012,20,369,5,Colecta / Depósito,Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),148194090,0,1
+MLA1365248899,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,341555,379505,10,1554,15,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),530776470,1,1
+MLA1880231307,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,493809,493809,0,275,27,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),135797475,1,1
+MLA1733184233,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,214226,214226,0,587,18,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),125750662,0,0
+MLA1143409121,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,2476933,2476933,0,302,25,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),748033766,1,1
+MLA1885949766,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,253650,253650,0,1000,1,Despacho en Correo,Sí,MercadoLíder Silver,Sí,6,new,Gama Entrada (< $300k),253650000,0,1
+MLA1008050113,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,260225,289138,10,1341,1,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),348961725,0,1
+MLA1532605377,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,426883,426883,0,215,4,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),91779845,1,1
+MLA1079970916,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,436610,582146,25,1137,19,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),496425570,1,0
+MLA1952506209,Celular Motorola Moto G54 128GB,Motorola,Celulares y Smartphones,244964,244964,0,1468,13,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),359607152,1,1
+MLA1783727038,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,2744859,2744859,0,504,2,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1383408936,0,1
+MLA1888885275,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1209383,1209383,0,739,5,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),893734037,0,0
+MLA1328973696,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,339893,453190,25,1511,6,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),513578323,1,0
+MLA1522970280,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,414820,414820,0,773,1,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),320655860,1,1
+MLA1455495725,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1381385,1381385,0,1337,32,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),1846911745,1,0
+MLA1933417248,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,241508,241508,0,1198,8,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),289326584,1,1
+MLA1415923328,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1570402,1847531,15,664,3,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),1042746928,1,1
+MLA1259171649,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,225296,225296,0,1569,20,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),353489424,0,0
+MLA1577276440,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,448002,497780,10,1767,8,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),791619534,1,1
+MLA1211872460,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,195547,195547,0,1667,21,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),325976849,0,0
+MLA1852544231,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,2689547,2689547,0,1166,22,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),3136011802,0,0
+MLA1287393742,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,370514,411682,10,1795,21,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),665072630,1,1
+MLA1902578620,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,428214,570952,25,426,37,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),182419164,0,1
+MLA1854604586,Celular Samsung Galaxy A54 5G 128GB,Samsung,Celulares y Smartphones,190315,190315,0,470,34,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Entrada (< $300k),89448050,1,1
+MLA1402851481,Celular Samsung Galaxy S23 Ultra 128GB,Samsung,Celulares y Smartphones,1397268,1397268,0,1534,9,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),2143409112,1,1
+MLA1018676190,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,235583,294478,20,1721,7,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),405438343,0,0
+MLA1231510226,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,497139,497139,0,614,6,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),305243346,0,1
+MLA1609418936,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1391580,1637152,15,1432,24,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1992742560,0,1
+MLA1673461339,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,296793,349168,15,1637,20,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Entrada (< $300k),485850141,1,0
+MLA1814760759,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1255751,1674334,25,1445,8,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),1814560195,1,1
+MLA1952591819,Celular Motorola Moto Edge 30 Ultra 128GB,Motorola,Celulares y Smartphones,1100994,1100994,0,168,7,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),184966992,0,1
+MLA1477221462,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,382777,510369,25,452,13,Despacho en Correo,Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),173015204,0,1
+MLA1230610672,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,386344,386344,0,1041,36,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),402184104,0,1
+MLA1749212104,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,194222,194222,0,1319,9,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),256178818,1,0
+MLA1377563691,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,278389,327516,15,783,3,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),217978587,1,1
+MLA1073772056,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1804214,2255267,20,1156,1,Colecta / Depósito,Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),2085671384,0,1
+MLA1959871111,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,410915,410915,0,1669,35,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Media ($300k - $700k),685817135,0,0
+MLA1479319298,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,336353,373725,10,915,25,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),307762995,0,1
+MLA1101359704,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,421577,421577,0,1035,8,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),436332195,0,1
+MLA1667650754,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,1359576,1599501,15,1695,40,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),2304481320,0,0
+MLA1044390834,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,2099631,2332923,10,921,13,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1933760151,1,1
+MLA1752832083,Celular Samsung Galaxy A14 128GB,Samsung,Celulares y Smartphones,276511,325307,15,1235,28,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Entrada (< $300k),341491085,1,1
+MLA1589867291,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,939571,939571,0,981,2,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),921719151,1,1
+MLA1007767366,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,2676824,2676824,0,415,22,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1110881960,1,1
+MLA1924278299,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,482595,482595,0,1671,2,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),806416245,1,0
+MLA1732012005,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,206197,206197,0,518,6,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),106810046,0,0
+MLA1552916261,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1718968,2148710,20,1242,27,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),2134958256,1,1
+MLA1496682261,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,1412856,1412856,0,1642,12,Colecta / Depósito,Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),2319909552,0,1
+MLA1677651387,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,314840,349822,10,1363,33,Despacho en Correo,Sí,MercadoLíder Silver,No,1,new,Gama Media ($300k - $700k),429126920,0,1
+MLA1414989755,Celular Samsung Galaxy S24 Pro 128GB,Samsung,Celulares y Smartphones,1379729,1839638,25,39,21,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Alta (> $700k),53809431,1,1
+MLA1185833432,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,391861,391861,0,1098,40,Colecta / Depósito,Sí,MercadoLíder Silver,No,1,new,Gama Media ($300k - $700k),430263378,0,1
+MLA1909655902,Celular Apple iPhone 11 64GB 128GB,Apple,Celulares y Smartphones,1990013,1990013,0,1244,27,Envío Full (Fulfillment),Sí,MercadoLíder Silver,No,1,new,Gama Alta (> $700k),2475576172,1,1
+MLA1027425830,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,216265,216265,0,16,8,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Entrada (< $300k),3460240,1,1
+MLA1601567975,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,1319320,1319320,0,467,21,Envío Full (Fulfillment),Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),616122440,1,0
+MLA1695590458,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,2516030,3145037,20,242,24,Colecta / Depósito,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),608879260,0,0
+MLA1941036631,Celular Motorola Moto G84 5G 128GB,Motorola,Celulares y Smartphones,200166,200166,0,603,31,Colecta / Depósito,Sí,Vendedor Estándar,No,1,new,Gama Entrada (< $300k),120700098,0,0
+MLA1568194601,Celular Xiaomi Redmi Note 12 5G 128GB,Xiaomi,Celulares y Smartphones,337868,337868,0,1519,5,Envío Full (Fulfillment),Sí,MercadoLíder Gold,No,1,new,Gama Media ($300k - $700k),513221492,1,1
+MLA1520637911,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1918223,1918223,0,321,11,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),615749583,1,0
+MLA1528234800,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1148199,1530932,25,676,27,Envío Full (Fulfillment),Sí,MercadoLíder Silver,Sí,6,new,Gama Alta (> $700k),776182524,1,1
+MLA1360756141,Celular Samsung Galaxy Z Flip5 128GB,Samsung,Celulares y Smartphones,351799,351799,0,1155,13,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Media ($300k - $700k),406327845,0,0
+MLA1602318275,Celular Apple iPhone 13 128GB 128GB,Apple,Celulares y Smartphones,2270926,2270926,0,202,4,Despacho en Correo,Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),458727052,0,0
+MLA1359966864,Celular Apple iPhone 15 Pro Max 128GB,Apple,Celulares y Smartphones,2020199,2020199,0,573,23,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Alta (> $700k),1157574027,1,1
+MLA1127046321,Celular Motorola Moto E13 128GB,Motorola,Celulares y Smartphones,400225,400225,0,1655,27,Despacho en Correo,Sí,MercadoLíder Gold,Sí,6,new,Gama Media ($300k - $700k),662372375,0,1
+MLA1184988226,Celular Motorola Moto Edge 40 Neo 128GB,Motorola,Celulares y Smartphones,1297238,1297238,0,212,18,Envío Full (Fulfillment),Sí,Vendedor Estándar,Sí,6,new,Gama Alta (> $700k),275014456,1,0
+MLA1298293113,Celular Xiaomi Redmi Note 13 Pro 128GB,Xiaomi,Celulares y Smartphones,382441,382441,0,1690,28,Colecta / Depósito,Sí,MercadoLíder Silver,Sí,6,new,Gama Media ($300k - $700k),646325290,0,1
+MLA1677789897,Celular Xiaomi Xiaomi 13T 128GB,Xiaomi,Celulares y Smartphones,488585,488585,0,1597,38,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),780270245,1,1
+MLA1650835116,Celular Xiaomi Redmi 12C 128GB,Xiaomi,Celulares y Smartphones,358482,358482,0,1038,8,Despacho en Correo,Sí,MercadoLíder Platinum,Sí,6,new,Gama Media ($300k - $700k),372104316,0,1
+MLA1768993978,Celular Xiaomi Poco X6 Pro 128GB,Xiaomi,Celulares y Smartphones,301290,401720,25,757,32,Envío Full (Fulfillment),Sí,MercadoLíder Platinum,No,1,new,Gama Media ($300k - $700k),228076530,1,1
+MLA1082501854,Celular Apple iPhone 12 128GB 128GB,Apple,Celulares y Smartphones,1228676,1445501,15,1352,9,Colecta / Depósito,Sí,MercadoLíder Platinum,No,1,new,Gama Alta (> $700k),1661169952,0,1
+MLA1170105552,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,2281827,2281827,0,1227,29,Envío Full (Fulfillment),Sí,MercadoLíder Gold,Sí,6,new,Gama Alta (> $700k),2799801729,1,1
+MLA1490024108,Celular Apple iPhone 14 128GB 128GB,Apple,Celulares y Smartphones,2789380,3486725,20,1257,21,Despacho en Correo,Sí,Vendedor Estándar,No,1,new,Gama Alta (> $700k),3506250660,0,0
